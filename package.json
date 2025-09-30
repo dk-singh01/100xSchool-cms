@@ -20,5 +20,8 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "global": "^4.4.0"
+  }
 }
